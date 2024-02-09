@@ -1,4 +1,4 @@
-There are including following steps:
+The following steps are followed:
 keras2cpp
 This is a bunch of code to port the Keras neural network model into pure C++. Neural network weights and architecture are stored in plain text files and input is presented as a vector.
 
@@ -24,3 +24,4 @@ Compare predictions.
 
 Similar repositories
 Keras to C++ with the usage of TensorFlow C API https://github.com/aljabr0/from-keras-to-c
+Keras model to cpp https://github.com/harmanpreet93/keras-model-to-cpp
